@@ -1,0 +1,12 @@
+{
+  "name": "EcoVision AI - Biodiversity Guardian",
+  "description": "Perception and Multi-Agent Reasoning System for Biodiversity Intelligence and Ecological Risk Assessment",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
